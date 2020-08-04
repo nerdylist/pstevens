@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on breaking a blade template down into some partials to be shared with other pages.
 
-🌱 I’m currently learning Blade, a little Vue, some bash scripting, some Oh-My-Zsh plugins and themes... Lots of fun stuff.
+🌱 I’m currently learning TailwindCSS, a little Vue, some bash scripting, some Oh-My-Zsh plugins and themes... Lots of fun stuff.
 
 👯 I’m looking to collaborate on innovative projects that need clean, focused, UIs.
 
